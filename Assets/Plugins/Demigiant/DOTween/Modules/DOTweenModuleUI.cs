@@ -11,6 +11,7 @@ using DG.Tweening.Core;
 using DG.Tweening.Core.Enums;
 using DG.Tweening.Plugins;
 using DG.Tweening.Plugins.Options;
+using TMPro;
 using Outline = UnityEngine.UI.Outline;
 using Text = UnityEngine.UI.Text;
 
